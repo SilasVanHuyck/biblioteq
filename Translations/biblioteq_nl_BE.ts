@@ -57,15 +57,15 @@
     </message>
     <message>
         <source>Exporting image(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">image(s) aan het exporteren...</translation>
     </message>
     <message>
         <source>BiblioteQ: Progress Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Biblioteq: Voortgangsdialoog</translation>
     </message>
     <message>
         <source>Exporting file(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bestanden aan het exporteren</translation>
     </message>
 </context>
 <context>
@@ -360,11 +360,11 @@
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algemeen</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Commentaar/Opmerkingen</translation>
     </message>
     <message>
         <source>Site</source>
@@ -376,7 +376,7 @@
     </message>
     <message>
         <source>General Registration Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Algemeen Registratie Nummer</translation>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
@@ -384,7 +384,7 @@
     </message>
     <message>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Privé</translation>
     </message>
 </context>
 <context>
@@ -471,7 +471,7 @@
     </message>
     <message>
         <source>Please use lower-case IDs.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gebruik kleine letters in de ID</translation>
     </message>
 </context>
 <context>
@@ -554,7 +554,7 @@
     </message>
     <message>
         <source>Clear the main table and reset the search widgets.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wis de hoofdtabel en reset zoekterm widgets.</translation>
     </message>
     <message>
         <source>Reset</source>
